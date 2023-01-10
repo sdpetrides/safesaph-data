@@ -4,13 +4,13 @@
             "title": "Saphenous_Vein_Prep_Kit_Simulator",
             "paragraphs": [
                 {
-                    "context": "",
+                    "context": "The SafeSaph training system includes a reusable vein. The vein can be used more than once.",
                     "qas": [
                         {
                             "answers": [
-                                {"answer_start": 0, "text": ""}
+                                {"answer_start": 10, "text": "The vein can be used more than once."}
                             ],
-                            "question": "",
+                            "question": "Can the vein be used more than once.",
                             "id": "5733be284776f41900661182"
                         }
                     ]

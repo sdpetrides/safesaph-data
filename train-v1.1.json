@@ -4,13 +4,15 @@
             "title": "Saphenous_Vein_Prep_Kit_Simulator",
             "paragraphs": [
                 {
-                    "context": "",
+                    "context": "If the silk tie is tied extremely tightly, the vein can be damaged.",
                     "qas": [
                         {
                             "answers": [
-                                {"answer_start": 0, "text": ""}
+                                {"answer_start": 10, "text": "Yes"},
+                                {"answer_start": 10, "text": "The vein can be damaged."},
+                                {"answer_start": 10, "text": "The vein can be damaged if the silk tie is tied extremely tightly."}
                             ],
-                            "question": "",
+                            "question": "Can the vein be damaged?",
                             "id": "5733be284776f41900661182"
                         }
                     ]
